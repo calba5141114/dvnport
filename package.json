@@ -1,0 +1,20 @@
+{
+  "name": "dvnport",
+  "version": "1.0.0",
+  "description": "main node.js service for project dvnport",
+  "main": "app.js",
+  "repository": "git@github.com:calba5141114/dvnport.git",
+  "author": "Dvnport Software LLC",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
